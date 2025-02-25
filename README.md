@@ -17,4 +17,5 @@ check all the files
 step 5:
 reun command on terminal "node app.js" then it will open on local host
 
-https://github.com/roshankumarnayak/FILMYHUB-ONLINE-MOVIE-STREAMING/blob/93af72500b1b92d064e635c870443112c9996c93/Screenshot%20(574).png
+
+![image alt](https://github.com/roshankumarnayak/FILMYHUB-ONLINE-MOVIE-STREAMING/blob/main/Screenshot%20(574).png?raw=true)
