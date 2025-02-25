@@ -6,7 +6,7 @@ step 1:
 add node mudules installing NPM 
 
 step 2:
-check app the files 
+add these files on public folder of node modules
 
 step 3:
 check aws s3  is working or not for movie streaming
